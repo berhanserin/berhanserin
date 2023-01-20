@@ -4,7 +4,7 @@
 - 🔭 Backend ve Frontend le hazırladığım değişik projeler var.
 
 
-<a href="https://github.com/berhanserin/github-readme-stats">
+<a href="https://github.com/berhan10/github-readme-stats">
   <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=berhan10&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true" />
 </a>
 
